@@ -6,3 +6,9 @@ public class MainApp {
     }
 
 }
+
+public static void doSomething(){
+    System.out.println("hello world!");
+}
+
+
